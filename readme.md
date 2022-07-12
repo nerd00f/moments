@@ -1,14 +1,10 @@
-## configurações
-
-<hr>
+# configurações
 
 ## frontend: 
 
 > npm install
 
 > npm start
-
-<hr>
 
 ## backend:
 
